@@ -4,7 +4,7 @@ Repositório dedicado ao meu aprendizado prático em **Power BI aplicado à aná
 
 ## 📊 Progresso Geral
 
-▰▰▱▱▱▱▱▱▱▱ ~14%
+▰▰▰▱▱▱▱▱▱▱ ~17%
 
 ---
 
@@ -25,7 +25,7 @@ Repositório dedicado ao meu aprendizado prático em **Power BI aplicado à aná
 | Módulo | Aulas | Status | Horas | Progresso |
 |-------:|-------:|--------|-------:|-----------|
 | [1. Importação e Tratamento de Bases de Dados com Power Query](https://github.com/gyamada22/PowerBI-Data-Analytics/blob/main/PowerBI-Modulos/01_Importa%C3%A7%C3%A3o%20e%20Tratamento%20de%20Bases%20de%20Dados%20com%20Power%20Query/README.md) | 37 | ✅ **Concluído** | 9h09 | 100% |
-| 2. Relacionamentos | 22 | ⏳ Não iniciado | 3h56 | 0% |
+| [2. Relacionamentos](https://github.com/gyamada22/PowerBI-Data-Analytics/blob/main/PowerBI-Modulos/02_Relacionamentos/README.md) | 22 | ✅ **Concluído** | 3h56 | 100% |
 | 3. Funções DAX | 57 | ⏳ Não iniciado | 9h32 | 0% |
 | 4. Storytelling | 12 | ⏳ Não iniciado | 1h45 | 0% |
 | 5. Dashboard & Visualização de Dados | 50 | ⏳ Não iniciado | 9h26 | 0% |
@@ -36,7 +36,8 @@ Repositório dedicado ao meu aprendizado prático em **Power BI aplicado à aná
 | 10. Biblioteca de Relatórios Impressionadores | 18 | ⏳ Não iniciado | 3h54 | 0% |
 | 11. Introdução à Power Platform | 2 | ⏳ Não iniciado | 3h56 | 0% |
 
+
 ---
 
 **Total:** 339 aulas | ~63 horas  
-**Progresso geral:** **~14% concluído** 🚀
+**Progresso geral:** **~17% concluído** 🚀
