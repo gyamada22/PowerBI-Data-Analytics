@@ -1,4 +1,4 @@
-# 📊 Power BI
+# Power BI
 
 Repositório dedicado ao meu aprendizado prático em **Power BI aplicado à análise de dados**, com foco em **ETL, modelagem, DAX, visualização, storytelling e criação de dashboards profissionais** voltados ao mercado de trabalho.
 
