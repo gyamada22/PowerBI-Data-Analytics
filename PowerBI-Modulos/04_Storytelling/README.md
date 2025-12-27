@@ -1,7 +1,7 @@
 # 📖 Módulo 6 — Storytelling  
 ## Storytelling aplicado à Visualização de Dados no Power BI
 
-## 🚧 Status: EM ANDAMENTO
+## ✅ Status: CONCLUÍDO
 
 - **Aulas:** 12/12  
 - **Duração Total:** 1h45min  
