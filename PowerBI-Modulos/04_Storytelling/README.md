@@ -1,4 +1,4 @@
-# 📖 Módulo 6 — Storytelling  
+# 📖 Módulo 4 — Storytelling  
 ## Storytelling aplicado à Visualização de Dados no Power BI
 
 ## ✅ Status: CONCLUÍDO
