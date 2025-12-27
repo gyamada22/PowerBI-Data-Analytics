@@ -6,7 +6,7 @@
 - **Aulas:** 57/57  
 - **Duração Total:** 9h32min  
 - **Progresso:** 100%  
-- **Data:** 23/12/2025  
+- **Data:** 26/12/2025  
 
 ---
 
