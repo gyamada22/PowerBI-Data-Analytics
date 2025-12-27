@@ -1,4 +1,4 @@
-# 🧮 Módulo 5 — Funções DAX  
+# 🧮 Módulo 3 — Funções DAX  
 ## Funções DAX no Power BI
 
 ## ✅ Status: CONCLUÍDO
