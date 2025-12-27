@@ -94,13 +94,5 @@ Até o momento, este módulo consolidou habilidades de:
 - Uso de elementos visuais para **reforçar insights**
 - Melhoria significativa da **comunicação de dados**
 
----
-
-## 🔜 Próximos Passos
-
-- Concluir a última aula sobre **Escolha de Cores**
-- Aplicar os conceitos de storytelling nos próximos dashboards
-- Revisar dashboards antigos aplicando os princípios aprendidos
-- Evoluir o portfólio visual com foco em **storytelling e impacto**
 
 
