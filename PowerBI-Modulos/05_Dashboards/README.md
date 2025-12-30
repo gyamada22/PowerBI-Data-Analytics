@@ -6,7 +6,7 @@
 - **Aulas:** 50/50  
 - **Duração Total:** 9h26min  
 - **Progresso:** 100%
-- **Última Atualização:** 30/12/2025  
+- **Última Atualização:** 29/12/2025  
 
 ---
 
