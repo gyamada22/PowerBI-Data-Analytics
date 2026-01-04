@@ -36,9 +36,8 @@ Repositório dedicado ao meu aprendizado prático em **Power BI aplicado à aná
 | [5. Dashboard & Visualização de Dados](https://github.com/gyamada22/PowerBI-Data-Analytics/blob/main/PowerBI-Modulos/05_Dashboards/README.md) | 50 | ✅ **Concluído** | 9h26 | 100% |
 | 8. Exercícios de Revisão | 15 | ⏳ Não iniciado | 1h58 | 0% |
 | 9. DAX Avançado | 85 | ⏳ Não iniciado | 12h26 | 0% |
-| 10. Biblioteca de Relatórios Impressionadores | 18 | ⏳ Não iniciado | 3h54 | 0% |
 
 ---
 
-**Total:** 296 aulas | **~50 horas**  
+**Total:** 296 aulas | **~46 horas**  
 **Progresso geral:** **~54% concluído** 🚀
